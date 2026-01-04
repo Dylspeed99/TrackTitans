@@ -1,0 +1,42 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# OS
+.DS_Store
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+
+# Crash reports
+sysinfo.txt
+
+# Unity Addressables
+AddressableAssetsData/*/*.bin*
+
+# Gradle
+.gradle/
+
+#plastic
+.plastic/
+
+#Code Files
+*.csproj
+*.sln
+
+#Backups
+Backups/
+
+#Build Outputs
+TrackTitansWeb/
+*.zip
+
+
+ignore.conf
